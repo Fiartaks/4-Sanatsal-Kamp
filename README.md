@@ -1,6 +1,6 @@
 #                          🎨  SANATSAL KAMP  ⛺
 
-# 🌿🎨 Doğanın Kalbinde Sanat: Kamp Hayatıyla Ebru Sanatını Buluşturun! 🌟
+##  🌿🎨 Doğanın Kalbinde Sanat: Kamp Hayatıyla Ebru Sanatını Buluşturun! 🌟
 
 ## 💼 Sunum
 ![](sanat.gif)
